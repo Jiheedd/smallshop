@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509601750995",
+    "project_id": "smallshop-05",
+    "storage_bucket": "smallshop-05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509601750995:android:8e3ad42250a3461e45d926",
+        "android_client_info": {
+          "package_name": "com.example.small_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7t7ar7KKwjDf6BGaYx0yQrvrmr9lN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
